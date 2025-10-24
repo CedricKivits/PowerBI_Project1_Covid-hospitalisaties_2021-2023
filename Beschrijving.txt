@@ -1,0 +1,14 @@
+Een interactieve Power BI-analyse gebaseerd op RIVM-data over COVID-19 ziekenhuisopnames per gemeente.
+De rapportage toont trends, geografische spreiding en totale opnames over tijd.
+
+Gebruikte tools:
+* Power BI
+* Open data van data.overheid.nl
+* Datatransformatie, datamodel, visualisatie (lijn, kaart, total card)
+
+Leerdoel:
+* Opzetten van een volledig Power BI-dashboard met externe data, filters en visualisaties.
+
+Bestanden:
+* Power BI-rapport (covid_analyse.pbix)
+* Export (covid_analyse.pdf, covid_analyse.png)
